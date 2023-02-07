@@ -62,3 +62,5 @@ https://youtu.be/_i11T16hWGo
 
 
 ## Reflection
+
+During acting, we found out that screens are needed sometimes. In the metroneme case, we would like a colorful color displayed on the robot to indicate different moods. In the advertisement robot, we would like the robot to show some information about the product.
