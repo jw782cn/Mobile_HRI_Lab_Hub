@@ -9,7 +9,7 @@ Lab 1. Interaction First
 
 Lab 2. Prototype the Robot
 
-Lab 3. Make the Robot Move
+Lab 3. Make the Robot Move(Lab3/Readme.md)
 
 Lab 4. Make the Robot See
 
