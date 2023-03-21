@@ -17,7 +17,7 @@ Lab 2. Prototype the Robot
 
 [Lab 5. Give the Robot Moves](Lab5/Readme.md)
 
-Lab 6. Choreographing Movement
+[Lab 6. Choreographing Movement](Lab5/Readme.md)
 
 Lab 7. Finding People to Interact with
 
